@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DIU Basic pervasive</string>
+    <string name="Button_text">Calculator</string>
+    <string name="Button_text2">Radio</string>
+    <string name="Button_text4">Currency converter</string>
+    <string name="Button_text5">Fragment</string>
+
+    <string name="textview_text">This is first activity</string>
+    <string name="textview_text2">This is Second activity</string>
+
+
+    <string name="calculator_text">calculator</string>
+    <string name="spinner_text">Spinner</string>
+    <string name="Button_text3">Select</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
